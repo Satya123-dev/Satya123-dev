@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me by gmail:satyaneng123@gmail.com
-- 😄 Pronouns: none
-- ⚡ Fun fact: i'm shy
+- 😄 Pronouns: nothing 
+- ⚡ Fun fact: i'm too dumb
 
 <!---
 Satya123-dev/Satya123-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
